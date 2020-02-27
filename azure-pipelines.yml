@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '0ded982b-9c22-444b-b2a8-9bd487850732'
+  azureServiceConnectionId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
   
   # Web app name
   webAppName: 'pypoll'
